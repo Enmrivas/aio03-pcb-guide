@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ai03-pcb-guide-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -565,4 +566,12 @@ Text GLabel 900  4500 0    50   Input ~ 0
 ROW0
 Text GLabel 900  5300 0    50   Input ~ 0
 ROW1
+Text GLabel 9500 4450 2    50   Input ~ 0
+COL1
+Text GLabel 9500 2950 2    50   Input ~ 0
+COL0
+Text GLabel 9500 3050 2    50   Input ~ 0
+ROW1
+Text GLabel 9500 4350 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC
